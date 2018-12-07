@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+section#conteudo {
+    width: 1000px;
+    margin: auto;
+}
+
+iframe#frame-empresa {
+    width: 400px;
+    height: 280px;
+    border: none;
+
+}
+
+iframe#frame-empresa::-webkit-scrollbar{
+    display: none;
+}
+
+
